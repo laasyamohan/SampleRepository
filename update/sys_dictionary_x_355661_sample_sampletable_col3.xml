@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="col2" table="x_355661_sample_sampletable">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="col3" table="x_355661_sample_sampletable">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>col2</column_label>
+        <column_label>col3</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,7 +27,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>col2</element>
+        <element>col3</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-06-25 08:32:17</sys_created_on>
-        <sys_id>6b1957f4db56f300a60c2a36ca961904</sys_id>
+        <sys_created_on>2019-06-25 10:15:17</sys_created_on>
+        <sys_id>1d585734db56f300a60c2a36ca961943</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>col2</sys_name>
+        <sys_name>col3</sys_name>
         <sys_package display_value="Sample" source="x_355661_sample">baa87a78dbd2f300a60c2a36ca9619f8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sample">baa87a78dbd2f300a60c2a36ca9619f8</sys_scope>
-        <sys_update_name>sys_dictionary_x_355661_sample_sampletable_col2</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-06-25 10:52:37</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_355661_sample_sampletable_col3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-25 10:15:17</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

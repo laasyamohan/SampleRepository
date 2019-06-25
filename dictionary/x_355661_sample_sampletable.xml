@@ -2,5 +2,6 @@
     <element label="SampleTable" max_length="40" name="x_355661_sample_sampletable" type="collection">
         <element label="col1" max_length="40" name="col1" type="string"/>
         <element label="col2" max_length="40" name="col2" type="string"/>
+        <element label="col3" max_length="40" name="col3" type="string"/>
     </element>
 </database>
